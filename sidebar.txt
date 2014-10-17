@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tal:home|Door43 (tal)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tal|d43-tal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tal/archive/master.zip|d43-tal.zip]]
+
+**Recent Changes**
+{{changes>ns = tal}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tal|Ethnologue data]]
+
